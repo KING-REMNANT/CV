@@ -1,0 +1,95 @@
+body{
+	background: white;
+}
+.background
+	{
+		background: white;
+		text-align: center;
+		padding-top: 0px;
+		
+	}
+	.wrapper h3
+	{
+		color: white;
+	
+	}
+	.navbar
+	{
+		align-content: left;
+		align-items: left;
+		padding: 0 1px 1px 8px;
+		
+		background-color: rgb(118, 5, 231);
+	}
+	.wrapper p
+	{
+		color: white;
+	}
+	.content1
+	{
+		background: black;
+		color: #ffffff;
+		padding: 5px 5px;
+		
+	}
+	.paragraph
+	{
+		word-wrap: break-word;
+  		padding: 8px 16px;
+  		box-shadow: 0 0 32px rgb(0 0 0 / 8%),
+              0rem 16px 16px -16px rgb(0 0 0 / 10%);
+        font-size: 16px;
+	}
+	.paragraph:hover
+	{
+		background: white;
+		color: black;
+		font-weight: 600;
+		font-size: 22px;
+		padding-bottom: 10px;
+  		margin-bottom: 15px;
+		  border-radius: 8%;
+  		padding-right: 15px;
+  		border-bottom-color: #f1f1f1;
+		font-family: 'Times New Roman', Times, serif;
+	}
+	.card
+	{
+		background: red;
+		margin: 10px 10px;
+		height: auto;
+		width: 20rem;
+		border-radius: 8%;
+  		padding-right: 15px;
+  		border-bottom-color: #f1f1f1;
+		font-family: 'Times New Roman', Times, serif;
+		
+	}
+	.card-body btn 
+	{
+		align-content: center;
+		align-items: center;
+	}
+	.card-text
+	{
+		word-wrap: break-word;
+	}
+	.card-img-top
+	{
+		margin: 10px 10px;
+		max-width: 100%;
+		align-content: center;
+		border-radius: 8%;
+  		border-bottom-color: #f1f1f1;
+		font-family: 'Times New Roman', Times, serif;
+	}
+
+
+
+
+
+
+
+
+	
+	
